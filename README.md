@@ -1,4 +1,4 @@
-# Scientist/Engineer, Data Analyst
+# = Data + Science + Engineering
 
 ## Work Experience
 ### Manager; WuXi Advanced Therapies; Philadelphia, PA (_Jan 2024 - Current_)
@@ -24,7 +24,7 @@
 ## Dashboards
 
 ## Education
-- Biomedical Engineering, PhD | Temple University, Philadelphia, PA (_2018_)
+- Biomedical Engineering, PhD | Temple University, Philadelphia, PA | (_2018_)
 - Aerospace Engineering, MSc | Sharif University of Technology, Tehran, Iran | (_2013_)
 - Mechanical Engineering, BSc | Shiraz University, Shiraz, Iran | (_2010_)
 
