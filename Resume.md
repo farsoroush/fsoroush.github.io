@@ -51,6 +51,6 @@
   margin-top: 16px;
   }
 </style>
-<a href="https://m.me/12345671234567" class="float">
+<a href="./" class="float">
   <i class="fa-brands fa-facebook-messenger my-float"></i>
 </a>
