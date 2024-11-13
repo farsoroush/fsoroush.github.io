@@ -1,4 +1,4 @@
-# = Data + Science + Engineering
+# Resume/CV
 
 ## Work Experience
 ### Manager; WuXi Advanced Therapies; Philadelphia, PA (_Jan 2024 - Current_)
