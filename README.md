@@ -24,9 +24,9 @@
 ## Dashboards
 
 ## Education
-- Biomedical Engineering, PhD | Temple University, Philadelphia, PA | (_2018_)
-- Aerospace Engineering, MSc | Sharif University of Technology, Tehran, Iran | (_2013_)
-- Mechanical Engineering, BSc | Shiraz University, Shiraz, Iran | (_2010_)
+- Biomedical Engineering, PhD | Temple University, Philadelphia, PA | _2018_
+- Aerospace Engineering, MSc | Sharif University of Technology, Tehran, Iran | _2013_
+- Mechanical Engineering, BSc | Shiraz University, Shiraz, Iran | _2010_
 
 ## Profiles:
 * [Google Scholar](https://scholar.google.com/citations?user=RxqRNQcAAAAJ&hl=en)
